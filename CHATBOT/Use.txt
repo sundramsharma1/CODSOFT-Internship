@@ -1,0 +1,16 @@
+Its Work On =>
+# Greetings
+# Asking about the chatbot
+# Asking the chatbot's name
+# Asking about the chatbot's capabilities
+# Asking for help
+# Asking for the time
+# Asking about the weather (mock response)
+# Farewell
+# Asking for a joke (simple example)
+# Asking for the date
+
+
+If you want to add more response then make this line of code according to your need
+    elif re.search(r'Your Expressions', user_input):
+        return "Your Return Statement"
